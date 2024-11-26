@@ -1,4 +1,5 @@
 # Flutter Calculator App
+![Screenshot_20241127_021701](https://github.com/user-attachments/assets/9e1e4648-7814-447c-8767-5609638a4d82)
 
 This project is a simple and functional **Calculator App** built using **Flutter** and **GetX**. It supports basic arithmetic operations and has a clean, intuitive UI with dark and light theme options. The app demonstrates the usage of state management, button handling, and math expression parsing.
 
